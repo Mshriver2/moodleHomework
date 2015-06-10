@@ -28,6 +28,7 @@ namespace Final_Project
 
         protected void Button1_Click(object sender, EventArgs e)
         {
+            string test;
             int counter;
             counter = 1;
             string[] classes = new string[10];
